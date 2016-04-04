@@ -1,0 +1,15 @@
+{
+  "name": "nodebawt",
+  "version": "1.0.0",
+  "description": "An IRC bot written in nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "irc": "^0.4.1"
+  },
+  "author": "Erik Dillingham <erik.dillingham@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": "https://github.com/edillingham/nodebawt.git"
+}
